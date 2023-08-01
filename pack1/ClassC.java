@@ -29,6 +29,13 @@ void meth4()
 	System.out.println(85);
 	System.out.println(44);
 }
+void meth4()
+{
+	int a=10;
+	System.out.println(89);
+	System.out.println(85);
+	System.out.println(44);
+}
 void meth5()
 {
 	System.out.println(77);
